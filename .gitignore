@@ -1,0 +1,4 @@
+*.o
+factorial
+*.pdf
+.venv
